@@ -5,4 +5,4 @@
 - 📫 How to reach me para entrar em contato comigo e pelo meu @ ou a conta do GitHub.
 MARIANASTOKLOSA/MARIANASTOKLOSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> ([] https://tenor.com/pt-BR/view/bare-tree-media-btm-night-shift-day-shift-night-gif-17192975)
+--->
